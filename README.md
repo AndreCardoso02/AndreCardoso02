@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+💻 **Software Engineer | Passionate about scalable and innovative solutions** 🚀  
+🌍 **Experience:** High-impact projects in government and private sectors  
+📚 **Lifelong Learner:** Always exploring new technologies and ideas  
+
+---
+
+### 🚀 My Skills:
+- **Programming Languages:** C#, JavaScript, Python, Java
+- **Frameworks/Technologies:** .NET, Angular, React, Spring Boot
+- **Databases:** MySQL, MongoDB, Firebase
+- **DevOps Tools:** Docker, Kubernetes, Git, CI/CD Pipelines
+
 <br />
 <div>    
   <img width="49%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/andrecardoso02?cardType=level&theme=calm&preferLogin=false&Background=FFFFFF00&Text=14B2EE&Title=55A48C&Border=DDDDDD00&Ring=55A48C" /> 
